@@ -1,3 +1,6 @@
+![image](https://github.com/Cheez-them/Hangman/assets/138711762/35a86af3-2948-4b6e-a05f-1c3095a12063)
+
+
 # Hangman
 bare-bones hangman game with some basic features which i made for my college project
 
